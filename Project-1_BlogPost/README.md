@@ -20,9 +20,9 @@ I am a coding lover. That's why I decided to analyze the incline in India toward
 
 I will be trying to find answers to the following
 
-According to StackOverflow survey data, which Programing Language is the most used in India for working in the years 2021, 2022, and 2023?
-According to StackOverflow survey data, which Programing language is most correlated to other languages in India for the years 2021, 2022, and 2023?
-According to StackOverflow survey data, which are the most wanted Programing Languages in India for the years 2021, 2022, and 2023?
+1. According to StackOverflow survey data, which Programing Language is the most used in India for working in the years 2021, 2022, and 2023?
+2. According to StackOverflow survey data, which Programing language is most correlated to other languages in India for the years 2021, 2022, and 2023?
+3. According to StackOverflow survey data, which are the most wanted Programing Languages in India for the years 2021, 2022, and 2023?
 
 ## Results/Blog Post <a name="results"></a>
 The main findings of the code can be found in the post available [here]
