@@ -12,7 +12,7 @@
 - Matplotlib
 - Seaborn
 
-You will need to download Stackoverflow’s 2021, 2022, 2023 Annual Developer Survey and put it in specific folders. You can find the link to download data [here](https://insights.stackoverflow.com/survey). 
+You will need to download Stackoverflow’s 2021, 2022, 2023 Annual Developer Survey and put it in specific folders. You can find the link to download data [here](https://insights.stackoverflow.com/survey). Used "survey_results_public.csv" from all the above-mentioned years.
 
 ## Project Motivation <a name="motivation"></a>
 
