@@ -16,7 +16,7 @@ You will need to download Stackoverflow’s 2021, 2022, 2023 Annual Developer Su
 
 ## Project Motivation <a name="motivation"></a>
 
-I am a coding lover. That's why I decided to analyze the incline in India towards programming language for work and desirable viewpoint.
+I have a curiosity about knowing the programing language trends. That's why I decided to analyze the incline in India towards programming language for work and desirable viewpoint.
 
 I will be trying to find answers to the following
 
