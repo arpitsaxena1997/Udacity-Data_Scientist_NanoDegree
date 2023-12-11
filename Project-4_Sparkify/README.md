@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Project Motivation and Purpose](#motivation)
+- [Project Steps Outline](#steps)
 - [Results/Blog Post](#results)
 - [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -21,7 +22,7 @@ In this project we will try to find out what is the likelihood of a costumer to 
 The main crux of the project is to extract from behavioral data and implement it to predict their decision to stay or leave(churn).
 In simple words, this project is a calssification project, in which we classify users between who are likely churn and who who are not.
 
-## Project Steps Outline
+## Project Steps Outline <a name="steps"></a>
 - Setting up pySpark
 - Loading and Cleaning Data
 - Data Alanysis by lokking into various attributes and graphs
