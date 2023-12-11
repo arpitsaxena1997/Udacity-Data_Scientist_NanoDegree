@@ -1,4 +1,4 @@
-# StackOverFlow's Survey Data Analysis
+# Sparkify User Churn Analysis Udacity NanoDegree Project
 
 ## Table of Contents
 - [Installation](#installation)
